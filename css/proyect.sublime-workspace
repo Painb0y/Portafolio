@@ -1,0 +1,652 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"con",
+				"contraseña"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"value",
+				"valueDataGet"
+			],
+			[
+				"formul",
+				"formulario_get"
+			],
+			[
+				"name",
+				"name_txt"
+			],
+			[
+				"valida",
+				"valida_datos_post_frm"
+			],
+			[
+				"nombre",
+				"nombre_txt"
+			],
+			[
+				"val",
+				"validarDatosPost"
+			],
+			[
+				"enviar",
+				"enviar_form_post"
+			],
+			[
+				"enviar_bt",
+				"enviar_btn_get"
+			],
+			[
+				"en",
+				"enviar_form_get"
+			],
+			[
+				"sexo",
+				"sexo_rdo"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"p",
+				"Password"
+			],
+			[
+				"validar",
+				"validar"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"else",
+				"elseif	elseif …"
+			],
+			[
+				"sex",
+				"sexo_rdo"
+			],
+			[
+				"e",
+				"elseif	elseif …"
+			],
+			[
+				"PAS",
+				"password_txt"
+			],
+			[
+				"pa",
+				"password_txt"
+			],
+			[
+				"nomb",
+				"nombre_txt"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"se",
+				"sexo_rdo"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"Vali",
+				"validarDatosGet"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"nom",
+				"nombre_txt"
+			],
+			[
+				"vali",
+				"valida_datos_get_frm"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"marg",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"po",
+				"position"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"li",
+				"li	Tag"
+			],
+			[
+				"mi",
+				"max-width"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"marin",
+				"margin"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"l",
+				"label	Tag"
+			],
+			[
+				"env",
+				"enviar_btn"
+			],
+			[
+				"NOM",
+				"nombre_txt"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"ec",
+				"enctype	Attr"
+			],
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/portafolio/index.html",
+			"settings":
+			{
+				"buffer_size": 1378,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "style.css",
+			"settings":
+			{
+				"buffer_size": 2942,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/html/css/Pagina-web/index.html",
+			"settings":
+			{
+				"buffer_size": 3543,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/html/css/Pagina-web/css/index.css",
+			"settings":
+			{
+				"buffer_size": 5976,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Package Control: iNSTA",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: I",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/portafolio",
+		"/C/xampp/htdocs/portafolio/css"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/portafolio/css/style.css",
+		"/C/xampp/htdocs/portafolio/style.css",
+		"/C/Users/Alejo/AppData/Local/Temp/Rar$DIa0.638/demo.css",
+		"/C/Users/Alejo/AppData/Local/Temp/Rar$DIa0.929/demo.css",
+		"/C/xampp/htdocs/html/css/style.css",
+		"/C/xampp/htdocs/html/index.html",
+		"/C/xampp/htdocs/php/02Validaciondatos/formulario.php",
+		"/C/xampp/htdocs/php/02Validaciondatos/validar-datos.php",
+		"/C/xampp/htdocs/php/ejercicios/ejercicio2-formulario-con-validacion/datos.php",
+		"/C/xampp/htdocs/php/ejercicios/ejercicio2-formulario-con-validacion/index.php",
+		"/D/xampp/htdocs/html/css/Pagina-web/index.html",
+		"/D/xampp/htdocs/html/css/Pagina-web/css/index.css",
+		"/D/xampp/htdocs/html/css/Pagina-web/style.css",
+		"/D/xampp/htdocs/html/index1.html",
+		"/D/xampp/htdocs/html/index.html",
+		"/C/Users/Alejo/Desktop/test-proyect/index.html",
+		"/C/Users/Alejo/Desktop/test-proyect/estilos.css",
+		"/C/xampp/htdocs/html/css/Pagina-web/index.html",
+		"/C/xampp/htdocs/Database.class.php",
+		"/C/xampp/htdocs/Cuestionario/install/install.php",
+		"/C/xampp/htdocs/full/Database.class.php",
+		"/C/xampp/htdocs/Cuestionario/install/config.tmp.php",
+		"/C/xampp/htdocs/Cuestionario/config.inc.php",
+		"/C/xampp/htdocs/iphone/register.php",
+		"/C/xampp/htdocs/php/enviar.php",
+		"/C/xampp/htdocs/iphone/index.php",
+		"/C/xampp/htdocs/iphone/entrar.php",
+		"/C/xampp/htdocs/nucleo/config.php",
+		"/C/xampp/htdocs/php/style.css",
+		"/C/xampp/htdocs/iphone/nucleo/class/info.php",
+		"/C/xampp/htdocs/iphone/nucleo/class/calen.php",
+		"/C/xampp/htdocs/iphone/nucleo/global.php",
+		"/C/xampp/htdocs/iphone/nucleo/config.php",
+		"/C/xampp/htdocs/php/formulario.php",
+		"/D/xampp/htdocs/php/01envioGET-POST/envia-datos.php",
+		"/C/Xampp/htdocs/php/enviar.php",
+		"/C/Xampp/htdocs/php/formulario.php",
+		"/D/xampp/htdocs/php/01envioGET-POST/formulario.php",
+		"/C/Users/Alejo/Desktop/Test/sy.css",
+		"/C/Users/Alejo/Desktop/Test/formulario.html",
+		"/C/Users/Alejo/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Alejo/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Alejo/AppData/Roaming/Sublime Text 3/Packages/User/Plain text.sublime-settings",
+		"/C/Users/Alejo/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Alejo/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"span",
+			">\n",
+			"readmore",
+			">\n",
+			"img",
+			"}\n",
+			"32em"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/portafolio/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								337,
+								337
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								108,
+								108
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/xampp/htdocs/html/css/Pagina-web/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1044,
+								1013
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/html/css/Pagina-web/css/index.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5976,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1132,
+								1136
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 909.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "proyect.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
